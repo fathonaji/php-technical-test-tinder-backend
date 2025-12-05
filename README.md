@@ -1,4 +1,4 @@
-# PHP Tinder Backend API (Laravel 11)
+# PHP Tinder Backend API (Laravel 12)
 
 This project is a technical assignment implementing a Tinder-like backend using **Laravel 12**, including:
 
