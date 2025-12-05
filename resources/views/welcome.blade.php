@@ -94,7 +94,7 @@
                         <h2 class="text-2xl font-semibold mb-2">Installation</h2>
 
                         <p class="font-semibold mt-4 mb-1">Clone repo:</p>
-                        <pre><code>git clone &lt;your-repo-url&gt; cd your-project</code></pre>
+                        <pre><code>git clone &lt;https://github.com/fathonaji/php-technical-test-tinder-backend.git&gt; cd php-technical-test-tinder-backend</code></pre>
 
                         <p class="font-semibold mt-4 mb-1">Install dependencies:</p>
                         <pre><code>composer install</code></pre>
